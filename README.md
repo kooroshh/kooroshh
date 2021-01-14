@@ -1,5 +1,5 @@
 ### 💬 About Me 
-i'm fullstack engineer / security researcher  
+I'm a full-stack engineer/security researcher  
 ⚡ I'm looking for a job too :)
 
 ### 🔭 Ongoing Projects  
