@@ -4,7 +4,6 @@ I'm a full-stack engineer/security researcher
 
 ### 🔭 Ongoing Projects  
 * OpenConnect (Android Client)
-* Butcher (Authoritative DNS LoadBalancer)
 
 ### 📫 Contact Me Via 
 * Twitter : [@MrOplus](https://twitter.com/MrOplus)  
